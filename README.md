@@ -7,7 +7,9 @@
 
 ## 📫 Connect with me:
 	
-[![LinkedIn](img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16")](https://linkedin.com/in/tanujadon5) 
+<a href="https://www.linkedin.com/in/tanujadon5/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">
+</a>
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanu.singh050397@gmail.com) 
 
