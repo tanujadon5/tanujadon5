@@ -7,10 +7,10 @@
 
 ## 📫 Connect with me:
 	
-• <a href="https://www.linkedin.com/in/tanujadon5/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">
+ <a href="https://www.linkedin.com/in/tanujadon5/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="25">
 </a>
-• <a href="mailto:tanu.singh050397@gmail.com">
+ <a href="mailto:tanu.singh050397@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30">
 </a>
 
