@@ -6,7 +6,15 @@
 
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tanujadon5) 
+<a href="https://linkedin.com/in/tanujadon5">
+  <img src="https://jsdelivr.net" width="100" height="100" alt="LinkedIn">
+</a>
+
+<a href="mailto:tanu.singh050397@gmail.com">
+  <img src="https://githubusercontent.com" width="100" height="100" alt="Gmail">
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanujadon5) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanu.singh050397@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,9 +22,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tanujadon5&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=tanujadon5&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanujadon5&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
