@@ -6,15 +6,9 @@
 
 
 ## 📫 Connect with me:
-<a href="https://linkedin.com/in/tanujadon5">
-  <img src="https://jsdelivr.net" width="100" height="100" alt="LinkedIn">
-</a>
+	
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/in/tanujadon5) 
 
-<a href="mailto:tanu.singh050397@gmail.com">
-  <img src="https://githubusercontent.com" width="100" height="100" alt="Gmail">
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanujadon5) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanu.singh050397@gmail.com) 
 
 # 💻 Tech Stack:
