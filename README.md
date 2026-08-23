@@ -1,8 +1,7 @@
-## Hi there 👋
-
 # 💫 About Me:
-##👋 Hi there, I'm Tanu Singh from India.
-###💡 Data Engineer at Quantiphi Analytics
+
+## Hi there 👋, I'm Tanu Singh from India.
+### 💡 Data Engineer at Quantiphi Analytics
 #### 🚀 I specialize in designing scalable data pipelines, automating data workflows, and building reliable data solutions using modern cloud and big data technologies.
 
 
