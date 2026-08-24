@@ -8,10 +8,14 @@
 ## 📫 Connect with me:
 	
  <a href="https://www.linkedin.com/in/tanujadon5/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="25">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+       width="18"
+       style="border: 1px solid #ccc; padding: 4px; border-radius: 4px;">
 </a>
  <a href="mailto:tanu.singh050397@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+       width="18"
+       style="border: 1px solid #ccc; padding: 4px; border-radius: 4px;">
 </a>
 
 # 💻 Tech Stack:
