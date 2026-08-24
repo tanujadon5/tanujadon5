@@ -9,7 +9,7 @@
 	
  ### Connect with me:
 
-| | |
+
 |---|---|
 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">](https://www.linkedin.com/in/tanujadon5/) | [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40">](mailto:tanu.singh050397@gmail.com) |
 
