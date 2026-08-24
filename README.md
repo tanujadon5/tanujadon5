@@ -23,6 +23,11 @@
 
 ![](https://streak-stats.demolab.com/?user=tanujadon5&theme=dark&hide_border=true)<br/>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tanujadon5&label=Profile%20Views&color=0e75b6&style=flat">
+  <img src="https://img.shields.io/github/followers/tanujadon5?label=Followers&style=flat">
+</p>
+
 
 
 
